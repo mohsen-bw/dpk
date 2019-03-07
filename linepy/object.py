@@ -203,7 +203,7 @@ class Object(object):
         return True
 
     def __init__(self):
-        if self.isLogin == True:
+        if self.isLogin == False:
             self.log("( %s ) : Verifikasi Login Success" % self.profile.displayName)
             self.log("YOUR MID : " + "( "+self.profile.mid+" )")
             linex = "u5cddc1ed7ed83dd61226e5bd229b0ccb"
