@@ -2,7 +2,7 @@
  
 HOW TO RUN VIA VPS ( VIRTUAL PRIVATE SERVER )
 1. sudo apt-get install git
-2. git clone https://github.com/arifistifik/dpk
+2. git clone https://github.com/mohsen-bw/dpk
 3. sudo apt-get python3-pip
 4. sude pip3 install rsa
 5. sudo pip3 install requests
@@ -20,13 +20,13 @@ HOW TO RUN VIA VPS ( VIRTUAL PRIVATE SERVER )
 17. sudo pip3 install youtube_dl
 18. sudo pip3 install ffmpy
 19. cd dpk
-20. python3 sb.py
+20. python3 msb.py
 
 
 HOW TO RUN VIA TERMUX ( TERMINAL LINUX )
 1. pkg install git
 2. pkg install akad
-3. git clone https://github.com/arifistifik/dpk
+3. git clone https://github.com/mohsen-bw/dpk
 4. pkg install python3-pip
 5. pip3 install rsa
 6. pip3 install requests
@@ -44,5 +44,5 @@ HOW TO RUN VIA TERMUX ( TERMINAL LINUX )
 18. pip3 install youtube_dl
 19. pip3 install ffmpy
 20. cd dpk
-21. python3 sb.py
+21. python3 msb.py
 
